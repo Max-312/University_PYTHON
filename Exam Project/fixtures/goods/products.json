@@ -1,0 +1,170 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Курсовая по Мат. Анализу",
+            "slug": "chajnyj-stolik-i-tri-stula",
+            "description": "Всё будет супер!",
+            "image": "goods_images/set_of_tea_table_and_three_chairs.jpg",
+            "price": "150.00",
+            "discount": "10.00",
+            "quantity": 10,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Курсовая по Алгему",
+            "slug": "chajnyj-stolik-i-dva-stula",
+            "description": "Всё будет супер!",
+            "image": "goods_images/set_of_tea_table_and_two_chairs.jpg",
+            "price": "93.00",
+            "discount": "2.50",
+            "quantity": 7,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "Зачет по дифурам",
+            "slug": "dvuhspalnaya-krovat",
+            "description": "Всё будет супер!",
+            "image": "goods_images/double_bed.jpg",
+            "price": "670.00",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Экзамен по УМФ",
+            "slug": "kuhonnyj-stol-s-rakovinoj",
+            "description": "Всё будет супер!",
+            "image": "goods_images/kitchen_table.jpg",
+            "price": "365.00",
+            "discount": "0.00",
+            "quantity": 11,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "коллоквиум по УМФ",
+            "slug": "kuhonnyj-stol-s-vstrojkoj",
+            "description": "Всё будет супер!",
+            "image": "goods_images/kitchen_table_2.jpg",
+            "price": "430.00",
+            "discount": "5.00",
+            "quantity": 8,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "Призыв халявы",
+            "slug": "uglovoj-divan-dlya-gostinnoj",
+            "description": " Всё будет супер!",
+            "image": "goods_images/corner_sofa.jpg",
+            "price": "610.00",
+            "discount": "2.00",
+            "quantity": 8,
+            "category": 9
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "Порча на допку",
+            "slug": "prikrovatnyj-stolik",
+            "description": "Всё будет супер!",
+            "image": "goods_images/bedside_table.jpg",
+            "price": "55.00",
+            "discount": "0.00",
+            "quantity": 6,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Бомбы по алгему",
+            "slug": "divan-obyknovennyj",
+            "description": "Всё будет супер!",
+            "image": "goods_images/sofa.jpg",
+            "price": "190.00",
+            "discount": "5.00",
+            "quantity": 5,
+            "category": 9
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Шпоры по матану",
+            "slug": "stul-ofisnyj",
+            "description": "Всё будет супер!",
+            "image": "goods_images/office_chair.jpg",
+            "price": "30.00",
+            "discount": "0.50",
+            "quantity": 35,
+            "category": 10
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "Помощь на контрольных 1 семестр",
+            "slug": "rastenie",
+            "description": "Всё будет супер!",
+            "image": "goods_images/plants.jpg",
+            "price": "10.00",
+            "discount": "0.00",
+            "quantity": 17,
+            "category": 12
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "Помощь на экзаменах 1 семестр",
+            "slug": "cvetok-stilizirovannyj",
+            "description": "Всё будет супер!",
+            "image": "goods_images/flower.jpg",
+            "price": "15.00",
+            "discount": "0.00",
+            "quantity": 17,
+            "category": 12
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Микронаушник в аренду",
+            "slug": "prikrovatnyj-stolik-2",
+            "description": "Всё будет супер!",
+            "image": "goods_images/strange_table.jpg",
+            "price": "25.00",
+            "discount": "90.00",
+            "quantity": 10,
+            "category": 8
+        }
+    }
+]
